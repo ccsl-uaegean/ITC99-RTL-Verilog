@@ -9,15 +9,15 @@ https://github.com/ldoolitt/vhd2vl
 
 Replaced ```bit``` and ```bit_vector``` structures with std_logic.
 
-Removed ```type``` and ```subtype``` and replaced them with the represented structure or 1 bit registers
+Removed ```type``` and ```subtype``` and replaced them with the represented structure or 1 bit registers.
 
-Replaced ```downto``` with to
+Replaced ```downto``` with to.
 
-Edited ```mem``` value assignments to single values
+Edited ```mem``` value assignments to single values.
 
-Moved all declarations to the top of the file
+Moved all declarations to the top of the file.
 
-Removed ```for all: <module> use entity work.<module>(behav);```
+Removed ```for all: <module> use entity work.<module>(behav);```.
 
 
 After the edits the circuits were converted using vhd2vl.
