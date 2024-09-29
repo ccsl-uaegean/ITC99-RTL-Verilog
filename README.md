@@ -17,7 +17,7 @@ Edited ```mem``` value assignments to single values.
 
 Moved all declarations to the top of the file.
 
-Removed ```for all: <module> use entity work.<module>(behav);```.
+Removed ```for all: <module> use entity work.<module>(behav);```
 
 
 After the edits the circuits were converted using vhd2vl.
