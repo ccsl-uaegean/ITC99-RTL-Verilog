@@ -1,6 +1,6 @@
 # Verilog RTL descriptions of ITC'99 benchmark circuits
 
-Circuits from https://github.com/cad-polito-it/I99T/tree/master conveted to RTL verilog.
+Circuits from https://github.com/cad-polito-it/I99T/tree/master conveted to RTL Verilog.
 
 Converted using vhd2vl by Larry Doolittle 
 https://github.com/ldoolitt/vhd2vl
